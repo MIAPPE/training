@@ -21,7 +21,8 @@ https://github.com/BioData-PT/Ready4BioDataManagement/blob/master/Intro%20to%20D
 
 # CropOntology: ontologies to define observations made in trials (Cyril Pommier)
 [4-WheatOntology.pptx](4-WheatOntology.pptx)
-Slides contribution: Cyril Pomier, Elizabeth Arnaud, Célia Michotey
+
+Slides contribution: Cyril Pommier, Elizabeth Arnaud, Célia Michotey
 
 # MIAPPE: description of trial studies (Daniel Faria)
 See slides and exercise in : 
