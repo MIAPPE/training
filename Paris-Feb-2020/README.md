@@ -14,7 +14,7 @@ Learners can fill a template with their data.
 Learners can apply the standards concept in some data managment tools.
 
 # Introduction to data management in science (Daniel Faria) 
-(BioData Introduction to research data managment)[https://github.com/BioData-PT/Ready4BioDataManagement/blob/master/Intro%20to%20DMPs/Materials/1%20-%20Introduction%20to%20Research%20Data%20Management.pdf]
+[BioData Introduction to research data managment](https://github.com/BioData-PT/Ready4BioDataManagement/blob/master/Intro%20to%20DMPs/Materials/1%20-%20Introduction%20to%20Research%20Data%20Management.pdf)
 
 # Plant phenomic managment overview (Cyril Pommier)
 [3-Overview.pptx](3-Overview.pptx)
