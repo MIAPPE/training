@@ -8,6 +8,7 @@ Contributors to this training material : Cyril Pommier, Daniel Faria, Célia Mic
 ## Learning Objectives:
 
 To get acquainted with plant phenotyping data managment constraints and particularities
+
 To be able to select and use relevant data standards
 
 ## Learning Outcomes:
