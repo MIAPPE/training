@@ -48,3 +48,5 @@ Optional complementary hands on:
 Fill the [Crop ontology[(www.cropontology.org/) [template](https://cgspace.cgiar.org/bitstream/handle/10568/110906/TD_template_v5.1.xls?sequence=5&isAllowed=y) with your own phenotyping variables if you have a dataset with extensive informations.
 
 
+# Further training
+https://www.france-bioinformatique.fr/formation/fair-data-science-ouverte-et-pgd-session-2/
