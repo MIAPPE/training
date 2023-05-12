@@ -1,0 +1,257 @@
+VarietyID	AccessionID	institute	DOI	Parent1	Parent1 institute	Parent2	Parent2 institute	CodeID	Panel246	GeneticGroup	Holding	HoldingName
+11430	11430_H	inra	https://doi.org/10.15454/MDSCXQ	11430_usda	USDA	UH_007	UH	3101	yes	Iodent	CIAM, Spain	Centro de Investigaciones Agrarias de Mabegondo
+A3	A3_H	inra	https://doi.org/10.15454/GAHOFA	A3_inra	INRA	UH_007	UH	3102	yes	Other	CIMMYT, Mexico	Centro International de Mejoramiento de Maiz y Trigo
+A310	A310_H	inra	https://doi.org/10.15454/CNJTVT	A310_inra	INRA	UH_007	UH	3008	yes	Other	CREA, Italy	Ronsiglio per la ricerca in agricoltura
+A347	A347_H	inra	https://doi.org/10.15454/O8CNHP	A347_inra	INRA	UH_007	UH	3013	yes	Other	CSIC, Spain	Consejo Superior de Investigaciones Científicas
+A374	A374_H	inra	https://doi.org/10.15454/7OOY7F	A374_inra	INRA	UH_007	UH	3017	yes	Other	IFSI, USA	Illinois Foundation Seeds, Inc.
+A375	A375_H	inra	https://doi.org/10.15454/IGF7DX	A375_inra	INRA	UH_007	UH	3103	yes	Other	INRA, France	Institut National de la Recherche Agronomique
+A554	A554_H	inra	https://doi.org/10.15454/9E4IDY	A554_inra	INRA	UH_007	UH	3221	yes	Other	MTA ATK, Hungary	Magyar Tudományos Akadémia MTA Agrártudományi Kutatóközpont
+AS5707	AS5707_H	inra	https://doi.org/10.15454/U4PWL3	AS5707_usda	USDA	UH_007	UH	3067	yes	Lancaster	UH, Germany	University of Hohenheim
+B100	B100_H	inra	https://doi.org/10.15454/PJSPJG	B100_uh	UH	UH_007	UH	3019	yes	Lancaster	USDA, USA	United States Department of Agriculture
+B104	B104_H	inra	https://doi.org/10.15454/4W8MAU	B104_inra	INRA	UH_007	UH	3029	yes	Stiff_Stalk		
+B105	B105_H	inra	https://doi.org/10.15454/KIHXDG	B105_inra	INRA	UH_007	UH	3012	yes	Other		
+B106	B106_H	inra	https://doi.org/10.15454/U7YFIU	B106_inra	INRA	UH_007	UH	3066	yes	Other		
+B107	B107_H	inra	https://doi.org/10.15454/XH5MEH	B107_inra	INRA	UH_007	UH	3053	yes	Iodent		
+B108	B108_H	inra	https://doi.org/10.15454/21XOCO	B108_uh	UH	UH_007	UH	3074	yes	Other		
+B109	B109_H	inra	https://doi.org/10.15454/X4VLZJ	B109_uh	UH	UH_007	UH	3104	yes	Stiff_Stalk		
+B110	B110_H	inra	https://doi.org/10.15454/3XPQEN	B110_uh	UH	UH_007	UH	3105	yes	Stiff_Stalk		
+B113	B113_H	inra	https://doi.org/10.15454/HZM5Q3	B113_uh	UH	UH_007	UH	3059	yes	Other		
+B14a	B14a_H	inra	https://doi.org/10.15454/ZSEK9Q	B14a_inra	INRA	UH_007	UH	3258	no	Stiff_Stalk		
+B37	B37_H	inra	https://doi.org/10.15454/QKMCCR	B37_inra	INRA	UH_007	UH	3085	yes	Other		
+B73	B73_H	inra	https://doi.org/10.15454/P5UIAJ	B73_inra	INRA	UH_007	UH	3001	yes	Stiff_Stalk		
+B84	B84_H	inra	https://doi.org/10.15454/MN1MDA	B84_inra	INRA	UH_007	UH	3009	yes	Stiff_Stalk		
+B89	B89_H	inra	https://doi.org/10.15454/LFK19C	B89_inra	INRA	UH_007	UH	3030	yes	Other		
+B97	B97_H	inra	https://doi.org/10.15454/3UYP74	B97_usa	USA	UH_007	UH	3027	yes	Other		
+B98	B98_H	inra	https://doi.org/10.15454/T3WOSC	B98_uh	UH	UH_007	UH	3079	yes	Other		
+C103	C103_H	inra	https://doi.org/10.15454/RYTRV5	C103_inra	INRA	UH_007	UH	3106	yes	Other		
+CO109	CO109_H	inra	https://doi.org/10.15454/X6F0EB	CO109_inra	INRA	UH_007	UH	3050	yes	Other		
+CR1Ht	CR1Ht_H	inra	https://doi.org/10.15454/UIVO1U	CR1Ht_usda	USDA	UH_007	UH	3107	yes	Lancaster		
+D09	D09_H	inra	https://doi.org/10.15454/MWWCXA	D09_uh	UH	UH_007	UH	3108	yes	Other		
+DE811	DE811_H	inra	https://doi.org/10.15454/4ES48F	DE811_inra	INRA	UH_007	UH	3109	yes	Stiff_Stalk		
+DK4676A	DK4676A_H	inra	https://doi.org/10.15454/JQK4DZ	DK4676A_usda	USDA	UH_007	UH	3097	yes	Stiff_Stalk		
+DK78010	DK78010_H	inra	https://doi.org/10.15454/CFMQSJ	DK78010_usda	USDA	UH_007	UH	3110	yes	Stiff_Stalk		
+DK78371A	DK78371A_H	inra	https://doi.org/10.15454/CGZZ3F	DK78371A_usda	USDA	UH_007	UH	3056	yes	Lancaster		
+DKFAPW	DKFAPW_H	inra	https://doi.org/10.15454/WUYS9V	DKFAPW_usda	USDA	UH_007	UH	3111	yes	Stiff_Stalk		
+DKFBHJ	DKFBHJ_H	inra	https://doi.org/10.15454/WMRRM7	DKFBHJ_usda	USDA	UH_007	UH	3081	yes	Stiff_Stalk		
+DKIBO2	DKIBO2_H	inra	https://doi.org/10.15454/JHDBU3	DKIBO2_usda	USDA	UH_007	UH	3112	yes	Iodent		
+DKMBST	DKMBST_H	inra	https://doi.org/10.15454/KN2JI5	DKMBST_usda	USDA	UH_007	UH	3113	yes	Lancaster		
+EA1027	EA1027_H	inra	https://doi.org/10.15454/NC19EQ	EM1027_inra	INRA	UH_007	UH	3120	yes	Other		
+EA1163	EA1163_H	inra	https://doi.org/10.15454/CV1BWK	EM1163_inra	INRA	UH_007	UH	3070	yes	Other		
+EA3076	EA3076_H	inra	https://doi.org/10.15454/7XVPGB	EA3076_csic	CSIC	UH_007	UH	3090	yes	Other		
+EC136	EC136_H	inra	https://doi.org/10.15454/OTWCEI	EC136_ciam	CIAM	UH_007	UH	3087	yes	Stiff_Stalk		
+EC140	EC140_H	inra	https://doi.org/10.15454/TB90FE	EC140_ciam	CIAM	UH_007	UH	3114	yes	Stiff_Stalk		
+EC151	EC151_H	inra	https://doi.org/10.15454/HPRD42	EC151_ciam	CIAM	UH_007	UH	3115	yes	Stiff_Stalk		
+EC169	EC169_H	inra	https://doi.org/10.15454/I2LIRO	EC169_ciam	CIAM	UH_007	UH	3116	yes	Stiff_Stalk		
+EC175	EC175_H	inra	https://doi.org/10.15454/LQ4CSH	EC175_ciam	CIAM	UH_007	UH	3117	yes	Stiff_Stalk		
+EC232	EC232_H	inra	https://doi.org/10.15454/V2GUZ8	EC232_ciam	CIAM	UH_007	UH	3033	yes	Other		
+EC242C	EC242C_H	inra	https://doi.org/10.15454/WY6RQU	EC242C_ciam	CIAM	UH_007	UH	3118	yes	Iodent		
+EC334	EC334_H	inra	https://doi.org/10.15454/7R7CML	EC334_ciam	CIAM	UH_007	UH	3119	yes	Other		
+EP10	EP10_H	inra	https://doi.org/10.15454/BZLOYX	EP10_csic	CSIC	UH_007	UH	3092	yes	Other		
+EP2008-18	EP2008-18_H	inra	https://doi.org/10.15454/LLQDYK	EP2008-18_csic	CSIC	UH_007	UH	3035	yes	Lancaster		
+EP2008-22	EP2008-22_H	inra	https://doi.org/10.15454/BUYPKE	EP2008-22_csic	CSIC	UH_007	UH	3121	yes	Lancaster		
+EP29	EP29_H	inra	https://doi.org/10.15454/GEYWPP	EP29_csic	CSIC	UH_007	UH	3098	yes	Other		
+EP51	EP51_H	inra	https://doi.org/10.15454/SP8JD0	EP51_csic	CSIC	UH_007	UH	3076	yes	Other		
+EP52	EP52_H	inra	https://doi.org/10.15454/JBBAWF	EP52_csic	CSIC	UH_007	UH	3014	yes	Other		
+EP55	EP55_H	inra	https://doi.org/10.15454/GF4RQE	EP55_csic	CSIC	UH_007	UH	3078	yes	Other		
+EP67	EP67_H	inra	https://doi.org/10.15454/I93CVI	EP67_csic	CSIC	UH_007	UH	3122	yes	Other		
+EP72	EP72_H	inra	https://doi.org/10.15454/NI7BTY	EP72_csic	CSIC	UH_007	UH	3123	yes	Other		
+EP77	EP77_H	inra	https://doi.org/10.15454/VGU01X	EP77_csic	CSIC	UH_007	UH	3124	yes	Other		
+EZ11A	EZ11A_H	inra	https://doi.org/10.15454/F8P1TS	EZ11A_csic	CSIC	UH_007	UH	3020	yes	Other		
+EZ18	EZ18_H	inra	https://doi.org/10.15454/DBYYTN	EZ18_csic	CSIC	UH_007	UH	3125	yes	Other		
+EZ31	EZ31_H	inra	https://doi.org/10.15454/TYSFSI	EZ31_csic	CSIC	UH_007	UH	3126	yes	Stiff_Stalk		
+EZ34	EZ34_H	inra	https://doi.org/10.15454/X1FWVP	EZ34_csic	CSIC	UH_007	UH	3048	no	Lancaster		
+EZ35	EZ35_H	inra	https://doi.org/10.15454/EJEGWP	EZ35_csic	CSIC	UH_007	UH	3127	yes	Other		
+EZ36	EZ36_H	inra	https://doi.org/10.15454/HVTNGN	EZ36_csic	CSIC	UH_007	UH	3128	yes	Other		
+EZ37	EZ37_H	inra	https://doi.org/10.15454/GD6TZS	EZ37_csic	CSIC	UH_007	UH	3021	yes	Stiff_Stalk		
+EZ38	EZ38_H	inra	https://doi.org/10.15454/QQEUB4	EZ38_csic	CSIC	UH_007	UH	3129	yes	Other		
+EZ40	EZ40_H	inra	https://doi.org/10.15454/BNROZU	EZ40_csic	CSIC	UH_007	UH	3044	yes	Stiff_Stalk		
+EZ42	EZ42_H	inra	https://doi.org/10.15454/3Q2V9S	EZ42_csic	CSIC	UH_007	UH	3130	yes	Stiff_Stalk		
+EZ47	EZ47_H	inra	https://doi.org/10.15454/FLE1RA	EZ47_csic	CSIC	UH_007	UH	3006	yes	Other		
+EZ48	EZ48_H	inra	https://doi.org/10.15454/U6LYU7	EZ48_csic	CSIC	UH_007	UH	3132	yes	Stiff_Stalk		
+4401,00 F	F04401_H	inra	https://doi.org/10.15454/OAENUW	F04401_inra	INRA	UH_007	UH	3134	yes	Iodent		
+4402,00 F	F04402_H	inra	https://doi.org/10.15454/Y8KSIC	F04402_inra	INRA	UH_007	UH	3135	yes	Iodent		
+4701,00 F	F04701_H	inra	https://doi.org/10.15454/2BEETM	F04701_inra	INRA	UH_007	UH	3136	yes	Lancaster		
+4702,00 F	F04702_H	inra	https://doi.org/10.15454/G6TRI1	F04702_inra	INRA	UH_007	UH	3137	yes	Lancaster		
+5101,00 F	F05101_H	inra	https://doi.org/10.15454/LT9EBP	F05101_inra	INRA	UH_007	UH	3138	yes	Stiff_Stalk		
+5404,00 F	F05404_H	inra	https://doi.org/10.15454/PQQBMH	F05404_inra	INRA	UH_007	UH	3139	yes	Iodent		
+1808,00 F	F1808_H	inra	https://doi.org/10.15454/RFTVJ3	F1808_inra	INRA	UH_007	UH	3022	yes	Stiff_Stalk		
+1890,00 F	F1890_H	inra	https://doi.org/10.15454/DPMMOI	FC1890_inra	INRA	UH_007	UH	3016	yes	Iodent		
+218,00 F	F218_H	inra	https://doi.org/10.15454/FLADQ9	FV218_inra	INRA	UH_007	UH	3152	yes	Other		
+252,00 F	F252_H	inra	https://doi.org/10.15454/KVWABC	FV252_inra	INRA	UH_007	UH	3153	yes	Other		
+353,00 F	F353_H	inra	https://doi.org/10.15454/BWEN08	FV353_inra	INRA	UH_007	UH	3086	yes	Iodent		
+354,00 F	F354_H	inra	https://doi.org/10.15454/AYJM3H	FV354_inra	INRA	UH_007	UH	3154	yes	Other		
+546,00 F	F546_H	inra	https://doi.org/10.15454/MWDWAE	F546_inra	INRA	UH_007	UH	3133	no	NA		
+608,00 F	F608_H	inra	https://doi.org/10.15454/AIXVTG	F608_inra	INRA	UH_007	UH	3140	yes	Other		
+618,00 F	F618_H	inra	https://doi.org/10.15454/UUGPLJ	F618_inra	INRA	UH_007	UH	3141	yes	Other		
+7001,00 F	F7001_H	inra	https://doi.org/10.15454/J1WKMB	F7001_inra	INRA	UH_007	UH	3040	yes	Other		
+7019,00 F	F7019_H	inra	https://doi.org/10.15454/ML81EC	F7019_inra	INRA	UH_007	UH	3142	yes	Other		
+7025,00 F	F7025_H	inra	https://doi.org/10.15454/FVQLLZ	F7025_inra	INRA	UH_007	UH	3049	yes	Stiff_Stalk		
+7028,00 F	F7028_H	inra	https://doi.org/10.15454/X2ENCA	F7028_inra	INRA	UH_007	UH	3015	yes	Other		
+7057,00 F	F7057_H	inra	https://doi.org/10.15454/7L8N8B	F7057_inra	INRA	UH_007	UH	3144	yes	Other		
+7058,00 F	F7058_H	inra	https://doi.org/10.15454/QPSSQO	F7058_inra	INRA	UH_007	UH	3143	yes	Other		
+7081,00 F	F7081_H	inra	https://doi.org/10.15454/OVKBUY	F7081_inra	INRA	UH_007	UH	3036	yes	Other		
+7082,00 F	F7082_H	inra	https://doi.org/10.15454/IFDAIO	F7082_inra	INRA	UH_007	UH	3145	yes	Other		
+712,00 F	F712_H	inra	https://doi.org/10.15454/6FDQYP	F712_inra	INRA	UH_007	UH	3057	yes	Other		
+748,00 F	F748_H	inra	https://doi.org/10.15454/P7GP0D	F748_inra	INRA	UH_007	UH	3054	yes	Lancaster		
+752,00 F	F752_H	inra	https://doi.org/10.15454/DU6APM	F752_inra	INRA	UH_007	UH	3146	yes	Other		
+816,00 F	F816_H	inra	https://doi.org/10.15454/WPUFWH	F816_inra	INRA	UH_007	UH	3264	no	Lancaster		
+838,00 F	F838_H	inra	https://doi.org/10.15454/KSZLK9	F838_inra	INRA	UH_007	UH	3028	yes	Other		
+874,00 F	F874_H	inra	https://doi.org/10.15454/LBNZ4P	F874_inra	INRA	UH_007	UH	3147	yes	Other		
+888,00 F	F888_H	inra	https://doi.org/10.15454/VQ9W36	F888_inra	INRA	UH_007	UH	3148	yes	Other		
+894,00 F	F894_H	inra	https://doi.org/10.15454/WBSYN7	F894_inra	INRA	UH_007	UH	3010	yes	Other		
+908,00 F	F908_H	inra	https://doi.org/10.15454/TML7FA	F908_inra	INRA	UH_007	UH	3149	yes	Other		
+912,00 F	F912_H	inra	https://doi.org/10.15454/ZJPT9Q	F912_inra	INRA	UH_007	UH	3011	yes	Iodent		
+918,00 F	F918_H	inra	https://doi.org/10.15454/HOMOXO	F918_inra	INRA	UH_007	UH	3065	yes	Other		
+922,00 F	F922_H	inra	https://doi.org/10.15454/VSJSVC	F922_inra	INRA	UH_007	UH	3150	yes	Other		
+924,00 F	F924_H	inra	https://doi.org/10.15454/RPM9FH	F924_inra	INRA	UH_007	UH	3043	yes	Stiff_Stalk		
+98902,00 F	F98902_H	inra	https://doi.org/10.15454/ELUEOX	F98902_inra	INRA	UH_007	UH	3084	yes	Iodent		
+FP1	FP1_H	inra	https://doi.org/10.15454/V1LWRV	FP1_inra	INRA	UH_007	UH	3151	yes	Other		
+FR19	FR19_H	inra	https://doi.org/10.15454/TPZTSA	FR19_usda	USDA	UH_007	UH	3018	yes	Other		
+FR697	FR697_H	inra	https://doi.org/10.15454/VZN8H6	FR697_ifsi	IFSI	UH_007	UH	3222	yes	Lancaster		
+H99	H99_H	inra	https://doi.org/10.15454/B39W9G	H99_inra	INRA	UH_007	UH	3155	yes	Lancaster		
+HMV5301	HMV5301_H	inra	https://doi.org/10.15454/ZLKLHI	HMV5301_Martonvasar	MTA-ATK	UH_007	UH	3156	yes	Iodent		
+HMV5325	HMV5325_H	inra	https://doi.org/10.15454/OJMQGR	HMV5325_Martonvasar	MTA-ATK	UH_007	UH	3058	yes	Stiff_Stalk		
+HMV5343	HMV5343_H	inra	https://doi.org/10.15454/A6PR22	HMV5343_Martonvasar	MTA-ATK	UH_007	UH	3157	yes	Stiff_Stalk		
+HMV5347	HMV5347_H	inra	https://doi.org/10.15454/GDWINS	HMV5347_Martonvasar	MTA-ATK	UH_007	UH	3158	yes	Stiff_Stalk		
+HMV5405	HMV5405_H	inra	https://doi.org/10.15454/DB5QJS	HMV5405_Martonvasar	MTA-ATK	UH_007	UH	3042	yes	Iodent		
+HMV5409	HMV5409_H	inra	https://doi.org/10.15454/0TQ4ET	HMV5409_Martonvasar	MTA-ATK	UH_007	UH	3159	yes	Other		
+HMV5422	HMV5422_H	inra	https://doi.org/10.15454/MNJOZY	HMV5422_Martonvasar	MTA-ATK	UH_007	UH	3037	yes	Stiff_Stalk		
+HMV5502	HMV5502_H	inra	https://doi.org/10.15454/QSWXHN	HMV5502_Martonvasar	MTA-ATK	UH_007	UH	3160	yes	Iodent		
+I198	I198_H	inra	https://doi.org/10.15454/DL4JVF	I198_inra	INRA	UH_007	UH	3161	yes	Other		
+I205	I205_H	inra	https://doi.org/10.15454/PXEAAU	I205_inra	INRA	UH_007	UH	3162	no	Other		
+I211	I211_H	inra	https://doi.org/10.15454/M1T9X4	I211_inra	INRA	UH_007	UH	3163	no	Other		
+I233	I233_H	inra	https://doi.org/10.15454/C4VEF0	I233_inra	INRA	UH_007	UH	3164	yes	Other		
+I238	I238_H	inra	https://doi.org/10.15454/VMZUXV	I238_inra	INRA	UH_007	UH	3165	yes	Other		
+I242	I242_H	inra	https://doi.org/10.15454/DEW3P6	I242_inra	INRA	UH_007	UH	3166	yes	Other		
+I261	I261_H	inra	https://doi.org/10.15454/GILEFF	I261_inra	INRA	UH_007	UH	3167	yes	Other		
+I267	I267_H	inra	https://doi.org/10.15454/GVPFQE	I267_inra	INRA	UH_007	UH	3168	yes	Other		
+IDT	IDT_H	inra	https://doi.org/10.15454/T2QBKI	IDT_inra	INRA	UH_007	UH	3169	yes	Other		
+LAN496	LAN496_H	inra	https://doi.org/10.15454/CAPEG4	LAN496_inra	INRA	UH_007	UH	3034	yes	Other		
+LH123Ht	LH123Ht_H	inra	https://doi.org/10.15454/LYOFZO	LH123Ht_usda	USDA	UH_007	UH	3170	yes	Lancaster		
+LH145	LH145_H	inra	https://doi.org/10.15454/DTTZ23	LH145_usda	USDA	UH_007	UH	3060	yes	Stiff_Stalk		
+LH38	LH38_H	inra	https://doi.org/10.15454/M33T8W	LH38_usda	USDA	UH_007	UH	3024	yes	Lancaster		
+LH39	LH39_H	inra	https://doi.org/10.15454/WNQFKH	LH39_usda	USDA	UH_007	UH	3171	yes	Lancaster		
+LH59	LH59_H	inra	https://doi.org/10.15454/JWCMJS	LH59_usda	USDA	UH_007	UH	3172	yes	Lancaster		
+LH60	LH60_H	inra	https://doi.org/10.15454/MR6MIM	LH60_usda	USDA	UH_007	UH	3173	yes	Lancaster		
+LH65	LH65_H	inra	https://doi.org/10.15454/NFXR4L	LH65_usda	USDA	UH_007	UH	3174	yes	Lancaster		
+LH74	LH74_H	inra	https://doi.org/10.15454/VUPKKL	LH74_inra	INRA	UH_007	UH	3041	yes	Stiff_Stalk		
+LH82	LH82_H	inra	https://doi.org/10.15454/FVLUWO	LH82_inra	INRA	UH_007	UH	3072	yes	Other		
+LH93	LH93_H	inra	https://doi.org/10.15454/Q0HNOG	LH93_usda	USDA	UH_007	UH	3100	yes	Other		
+Lo1016	Lo1016_H	inra	https://doi.org/10.15454/TW76QX	Lo1016_bergamo	CREA	UH_007	UH	3175	yes	Stiff_Stalk		
+Lo1026	Lo1026_H	inra	https://doi.org/10.15454/JBNGJT	Lo1026_bergamo	CREA	UH_007	UH	3176	yes	Stiff_Stalk		
+Lo1035	Lo1035_H	inra	https://doi.org/10.15454/PM06E7	Lo1035_bergamo	CREA	UH_007	UH	3177	yes	Lancaster		
+Lo1038	Lo1038_H	inra	https://doi.org/10.15454/MNN3BT	Lo1038_bergamo	CREA	UH_007	UH	3178	yes	Other		
+Lo1056	Lo1056_H	inra	https://doi.org/10.15454/YW6ASO	Lo1056_bergamo	CREA	UH_007	UH	3179	yes	Lancaster		
+Lo1063	Lo1063_H	inra	https://doi.org/10.15454/AOK4RM	Lo1063_bergamo	CREA	UH_007	UH	3180	yes	Stiff_Stalk		
+Lo1087	Lo1087_H	inra	https://doi.org/10.15454/089G4O	Lo1087_bergamo	CREA	UH_007	UH	3181	yes	Stiff_Stalk		
+Lo1094	Lo1094_H	inra	https://doi.org/10.15454/KF2P15	Lo1094_bergamo	CREA	UH_007	UH	3182	yes	Stiff_Stalk		
+Lo1095	Lo1095_H	inra	https://doi.org/10.15454/EKBCA6	Lo1095_bergamo	CREA	UH_007	UH	3183	yes	Iodent		
+Lo1101	Lo1101_H	inra	https://doi.org/10.15454/CPJZKR	Lo1101_bergamo	CREA	UH_007	UH	3184	yes	Stiff_Stalk		
+Lo1106	Lo1106_H	inra	https://doi.org/10.15454/IGO0FR	Lo1106_bergamo	CREA	UH_007	UH	3185	yes	Stiff_Stalk		
+Lo1123	Lo1123_H	inra	https://doi.org/10.15454/QHEMLY	Lo1123_bergamo	CREA	UH_007	UH	3186	yes	Iodent		
+Lo1124	Lo1124_H	inra	https://doi.org/10.15454/UHQTBS	Lo1124_bergamo	CREA	UH_007	UH	3187	yes	Lancaster		
+Lo1130	Lo1130_H	inra	https://doi.org/10.15454/D6XH5E	Lo1130_bergamo	CREA	UH_007	UH	3188	no	Iodent		
+Lo1172	Lo1172_H	inra	https://doi.org/10.15454/GJAFVX	Lo1172_bergamo	CREA	UH_007	UH	3189	yes	Other		
+Lo1180	Lo1180_H	inra	https://doi.org/10.15454/4YFVBA	Lo1180_bergamo	CREA	UH_007	UH	3190	yes	Iodent		
+Lo1187	Lo1187_H	inra	https://doi.org/10.15454/VNMSHP	Lo1187_bergamo	CREA	UH_007	UH	3191	yes	Stiff_Stalk		
+Lo1199	Lo1199_H	inra	https://doi.org/10.15454/9UZPXS	Lo1199_bergamo	CREA	UH_007	UH	3192	yes	Stiff_Stalk		
+Lo1203	Lo1203_H	inra	https://doi.org/10.15454/B3KRWB	Lo1203_bergamo	CREA	UH_007	UH	3193	yes	Lancaster		
+Lo1223	Lo1223_H	inra	https://doi.org/10.15454/8XPNG8	Lo1223_bergamo	CREA	UH_007	UH	3194	yes	Stiff_Stalk		
+Lo1242	Lo1242_H	inra	https://doi.org/10.15454/LSJ0SQ	Lo1242_bergamo	CREA	UH_007	UH	3195	yes	Lancaster		
+Lo1251	Lo1251_H	inra	https://doi.org/10.15454/ZPQMID	Lo1251_bergamo	CREA	UH_007	UH	3196	yes	Stiff_Stalk		
+Lo1253	Lo1253_H	inra	https://doi.org/10.15454/NKIE76	Lo1253_bergamo	CREA	UH_007	UH	3197	yes	Stiff_Stalk		
+Lo1261	Lo1261_H	inra	https://doi.org/10.15454/YBXTRS	Lo1261_bergamo	CREA	UH_007	UH	3198	yes	Stiff_Stalk		
+Lo1266	Lo1266_H	inra	https://doi.org/10.15454/TNGTAV	Lo1266_bergamo	CREA	UH_007	UH	3199	yes	Iodent		
+Lo1270	Lo1270_H	inra	https://doi.org/10.15454/TMJHZA	Lo1270_bergamo	CREA	UH_007	UH	3200	yes	Lancaster		
+Lo1273	Lo1273_H	inra	https://doi.org/10.15454/TUULPT	Lo1273_bergamo	CREA	UH_007	UH	3201	yes	Iodent		
+Lo1274	Lo1274_H	inra	https://doi.org/10.15454/DTTIUB	Lo1274_bergamo	CREA	UH_007	UH	3202	yes	Lancaster		
+Lo1280	Lo1280_H	inra	https://doi.org/10.15454/ZVAVSP	Lo1280_bergamo	CREA	UH_007	UH	3203	yes	Lancaster		
+Lo1282	Lo1282_H	inra	https://doi.org/10.15454/E3TUYJ	Lo1282_bergamo	CREA	UH_007	UH	3204	yes	Lancaster		
+Lo1284	Lo1284_H	inra	https://doi.org/10.15454/OVW4GG	Lo1284_bergamo	CREA	UH_007	UH	3205	yes	Lancaster		
+Lo1288	Lo1288_H	inra	https://doi.org/10.15454/XXTRYK	Lo1288_bergamo	CREA	UH_007	UH	3206	yes	Lancaster		
+Lo1290	Lo1290_H	inra	https://doi.org/10.15454/YL5R4U	Lo1290_bergamo	CREA	UH_007	UH	3207	yes	Lancaster		
+Lo1301	Lo1301_H	inra	https://doi.org/10.15454/1ZCMBD	Lo1301_bergamo	CREA	UH_007	UH	3209	yes	Stiff_Stalk		
+Lo904	Lo904_H	inra	https://doi.org/10.15454/WAG6NL	Lo904_bergamo	CREA	UH_007	UH	3210	yes	Stiff_Stalk		
+Lp5	Lp5_H	inra	https://doi.org/10.15454/VVTTBY	Lp5_usda	INRA	UH_007	UH	3069	yes	Stiff_Stalk		
+ML606	ML606_H	inra	https://doi.org/10.15454/KOKHG9	ML606_usda	USDA	UH_007	UH	3080	yes	Lancaster		
+Mo15W	Mo15W_H	inra	https://doi.org/10.15454/0LXNCN	Mo15W_inra	INRA	UH_007	UH	3211	yes	Other		
+Mo17	Mo17_H	inra	https://doi.org/10.15454/HWCPGC	Mo17_inra	INRA	UH_007	UH	3046	yes	Lancaster		
+MS153	MS153_H	inra	https://doi.org/10.15454/NPJBWJ	MS153_inra	INRA	UH_007	UH	3007	yes	Other		
+MS71	MS71_H	inra	https://doi.org/10.15454/4XYXKB	MS71_uh	UH	UH_007	UH	3096	yes	Other		
+N16	N16_H	inra	https://doi.org/10.15454/HDJP0L	N16_inra	INRA	UH_007	UH	3212	yes	Other		
+N192	N192_H	inra	https://doi.org/10.15454/7CWQV7	N192_usa	USA	UH_007	UH	3213	yes	Stiff_Stalk		
+N22	N22_H	inra	https://doi.org/10.15454/67FHQJ	N22_inra	INRA	UH_007	UH	3214	yes	Other		
+N25	N25_H	inra	https://doi.org/10.15454/N0XW6Z	N25_inra	INRA	UH_007	UH	3052	yes	Other		
+N6	N6_H	inra	https://doi.org/10.15454/OJB9O0	N6_inra	INRA	UH_007	UH	3064	yes	Other		
+NC290	NC290_H	inra	https://doi.org/10.15454/TX6MDP	NC290_uh	UH	UH_007	UH	3031	yes	Lancaster		
+NC358	NC358_H	inra	https://doi.org/10.15454/2D05EV	NC358_uh	UH	UH_007	UH	3099	yes	Other		
+NDB8	NDB8_H	inra	https://doi.org/10.15454/I1PIAB	NDB8_inra	INRA	UH_007	UH	3094	yes	Other		
+NK764	NK764_H	inra	https://doi.org/10.15454/68UAOE	NK764_usda	USDA	UH_007	UH	3215	yes	Stiff_Stalk		
+NK807	NK807_H	inra	https://doi.org/10.15454/VFUIV5	NK807_usda	USDA	UH_007	UH	3216	yes	Other		
+NQ508	NQ508_H	inra	https://doi.org/10.15454/FCAQLR	NQ508_usda	USDA	UH_007	UH	3217	yes	Iodent		
+NS501	NS501_H	inra	https://doi.org/10.15454/CHTSUF	NS501_usda	USDA	UH_007	UH	3265	no	Iodent		
+NS701	NS701_H	inra	https://doi.org/10.15454/PAY7DB	NS701_usda	USDA	UH_007	UH	3218	yes	Stiff_Stalk		
+Oh02	Oh02_H	inra	https://doi.org/10.15454/EYCTRV	Oh02_inra	INRA	UH_007	UH	3025	yes	Other		
+Oh33	Oh33_H	inra	https://doi.org/10.15454/YLEAQG	Oh33_inra	INRA	UH_007	UH	3005	yes	Other		
+Oh40B	Oh40B_H	inra	https://doi.org/10.15454/AZDRPF	Oh40B_inra	INRA	UH_007	UH	3219	yes	Lancaster		
+Oh43	Oh43_H	inra	https://doi.org/10.15454/5GN11W	Oh43_inra	INRA	UH_007	UH	3003	yes	Lancaster		
+Os426	Os426_H	inra	https://doi.org/10.15454/GYTVRS	Os426_inra	INRA	UH_007	UH	3038	yes	Other		
+P465P	P465P_H	inra	https://doi.org/10.15454/GWATR4	P465P_inra	INRA	UH_007	UH	3220	yes	Other		
+Pa35	Pa35_H	inra	https://doi.org/10.15454/UHHPBO	Pa35_inra	INRA	UH_007	UH	3266	no	Other		
+Pa36	Pa36_H	inra	https://doi.org/10.15454/LFUUTO	Pa36_inra	INRA	UH_007	UH	3208	yes	Other		
+Pa405	Pa405_H	inra	https://doi.org/10.15454/KUZQQB	Pa405_uh	UH	UH_007	UH	3023	yes	Other		
+Pa91	Pa91_H	inra	https://doi.org/10.15454/ITYYBD	Pa91_inra	INRA	UH_007	UH	3089	yes	Other		
+PB116	PB116_H	inra	https://doi.org/10.15454/WFCPMD	PB116_inra	INRA	UH_007	UH	3062	yes	Other		
+PB98TR	PB98TR_H	inra	https://doi.org/10.15454/COQ7PM	PB98TR_inra	INRA	UH_007	UH	3061	yes	Other		
+PH207	PH207_H	inra	https://doi.org/10.15454/AQWE02	PH207_usda	USDA	UH_007	UH	3002	yes	Iodent		
+PHB09	PHB09_H	inra	https://doi.org/10.15454/ZUQPG3	PHB09_usda	USDA	UH_007	UH	3083	yes	Stiff_Stalk		
+PHG35	PHG35_H	inra	https://doi.org/10.15454/7TOVKA	PHG35_usda	USDA	UH_007	UH	3223	yes	Iodent		
+PHG39	PHG39_H	inra	https://doi.org/10.15454/CCDUCG	PHG39_usda	USDA	UH_007	UH	3039	yes	Stiff_Stalk		
+PHG47	PHG47_H	inra	https://doi.org/10.15454/SZLUZC	PHG47_usda	USDA	UH_007	UH	3082	yes	Lancaster		
+PHG50	PHG50_H	inra	https://doi.org/10.15454/ZMCLMH	PHG50_usda	USDA	UH_007	UH	3224	yes	Iodent		
+PHG71	PHG71_H	inra	https://doi.org/10.15454/3PWKJE	PHG71_usda	USDA	UH_007	UH	3225	yes	Iodent		
+PHG80	PHG80_H	inra	https://doi.org/10.15454/30LETM	PHG80_usda	USDA	UH_007	UH	3226	yes	Stiff_Stalk		
+PHG83	PHG83_H	inra	https://doi.org/10.15454/ETLUFX	PHG83_usda	USDA	UH_007	UH	3051	yes	Iodent		
+PHG84	PHG84_H	inra	https://doi.org/10.15454/Y3D0CI	PHG84_usda	USDA	UH_007	UH	3227	yes	Lancaster		
+PHG86	PHG86_H	inra	https://doi.org/10.15454/CAUHOJ	PHG86_usda	USDA	UH_007	UH	3055	yes	Stiff_Stalk		
+PHH93	PHH93_H	inra	https://doi.org/10.15454/WZXITF	PHH93_usda	USDA	UH_007	UH	3077	yes	Iodent		
+PHJ40	PHJ40_H	inra	https://doi.org/10.15454/TZD7EC	PHJ40_usda	USDA	UH_007	UH	3228	yes	Lancaster		
+PHK29	PHK29_H	inra	https://doi.org/10.15454/RCUMRI	PHK29_usda	USDA	UH_007	UH	3229	yes	Stiff_Stalk		
+PHK76	PHK76_H	inra	https://doi.org/10.15454/D6A8VZ	PHK76_usda	INRA	UH_007	UH	3091	yes	Lancaster		
+PHR36	PHR36_H	inra	https://doi.org/10.15454/YPHNBZ	PHR36_usda	USDA	UH_007	UH	3230	yes	Other		
+PHT77	PHT77_H	inra	https://doi.org/10.15454/EQYTRS	PHT77_usda	USDA	UH_007	UH	3231	yes	Lancaster		
+PHV63	PHV63_H	inra	https://doi.org/10.15454/WLFPQC	PHV63_usda	USDA	UH_007	UH	3232	yes	Stiff_Stalk		
+PHW65	PHW65_H	inra	https://doi.org/10.15454/TALVXU	PHW65_usda	USDA	UH_007	UH	3233	yes	Lancaster		
+PHZ51	PHZ51_H	inra	https://doi.org/10.15454/XGPNFM	PHZ51_usda	USDA	UH_007	UH	3234	yes	Lancaster		
+PP147	PP147_H	inra	https://doi.org/10.15454/TXE8L9	PP147_inra	INRA	UH_007	UH	3268	no	Other		
+SC-Malawi	SC-Malawi_H	inra	https://doi.org/10.15454/HBOONE	SC-Malawi_cim	CIMMYT	UH_007	UH	3235	yes	Other		
+SGI061	SGI061_H	inra	https://doi.org/10.15454/I2W4OZ	SGI061_ifsi	IFSI	UH_007	UH	3256	yes	Iodent		
+UH_2500	UH_2500_H	inra	https://doi.org/10.15454/CXASTH	UH_2500_uh	UH	UH_007	UH	3236	yes	Other		
+UH_6102	UH_6102_H	inra	https://doi.org/10.15454/ZEQFBU	UH_6102_uh	UH	UH_007	UH	3237	yes	Iodent		
+UH_6179	UH_6179_H	inra	https://doi.org/10.15454/PRT5XO	UH_6179_uh	UH	UH_007	UH	3238	yes	Iodent		
+UH_P024	UH_P024_H	inra	https://doi.org/10.15454/NAG17Z	UH_P024_uh	UH	UH_007	UH	3239	yes	Iodent		
+UH_P060	UH_P060_H	inra	https://doi.org/10.15454/PTTCO2	UH_P060_uh	UH	UH_007	UH	3240	yes	Iodent		
+UH_P064	UH_P064_H	inra	https://doi.org/10.15454/HAMEQC	UH_P064_uh	UH	UH_007	UH	3241	yes	Iodent		
+UH_P074	UH_P074_H	inra	https://doi.org/10.15454/KENKPI	UH_P074_uh	UH	UH_007	UH	3242	yes	Iodent		
+UH_P087	UH_P087_H	inra	https://doi.org/10.15454/RQFY2B	UH_P087_uh	UH	UH_007	UH	3243	yes	Iodent		
+UH_P089	UH_P089_H	inra	https://doi.org/10.15454/VO3AKN	UH_P089_uh	UH	UH_007	UH	3032	yes	Iodent		
+UH_P104	UH_P104_H	inra	https://doi.org/10.15454/H9VQPV	UH_P104_uh	UH	UH_007	UH	3244	yes	Other		
+UH_P115	UH_P115_H	inra	https://doi.org/10.15454/YK08AN	UH_P115_uh	UH	UH_007	UH	3245	yes	Iodent		
+UH_P128	UH_P128_H	inra	https://doi.org/10.15454/VELLIH	UH_P128_uh	UH	UH_007	UH	3075	yes	Iodent		
+UH_P148	UH_P148_H	inra	https://doi.org/10.15454/MMGFWL	UH_P148_uh	UH	UH_007	UH	3246	yes	Iodent		
+UH_S018	UH_S018_H	inra	https://doi.org/10.15454/TOUBKW	UH_S018_uh	UH	UH_007	UH	3247	yes	Other		
+UH_S020	UH_S020_H	inra	https://doi.org/10.15454/RGRUUB	UH_S020_uh	UH	UH_007	UH	3248	yes	Other		
+UH_S025	UH_S025_H	inra	https://doi.org/10.15454/KR62P7	UH_S025_uh	UH	UH_007	UH	3249	yes	Other		
+UH250	UH250_H	inra	https://doi.org/10.15454/NEO4EO	UH250_uh	UH	UH_007	UH	3026	yes	Other		
+UH304	UH304_H	inra	https://doi.org/10.15454/VEZE8O	UH304_uh	UH	UH_007	UH	3250	yes	Iodent		
+Va26	Va26_H	inra	https://doi.org/10.15454/HSQIO7	Va26_inra	INRA	UH_007	UH	3251	yes	Lancaster		
+W117	W117_H	inra	https://doi.org/10.15454/GBTDNM	W117_inra	INRA	UH_007	UH	3252	yes	Other		
+W153R	W153R_H	inra	https://doi.org/10.15454/3VKPVB	W153R_usa	USA	UH_007	UH	3131	yes	Other		
+W182E	W182E_H	inra	https://doi.org/10.15454/SU486F	W182E_inra	INRA	UH_007	UH	3253	yes	Other		
+W23	W23_H	inra	https://doi.org/10.15454/UX5L2C	W23_uh	INRA	UH_007	UH	3045	yes	Other		
+W602S	W602S_H	inra	https://doi.org/10.15454/WFMW08	W602S_uh	UH	UH_007	UH	3063	yes	Lancaster		
+W604S	W604S_H	inra	https://doi.org/10.15454/P7VJXF	W604S_uh	UH	UH_007	UH	3254	yes	Lancaster		
+W64A	W64A_H	inra	https://doi.org/10.15454/EW2AP2	W64A_inra	INRA	UH_007	UH	3004	yes	Other		
+W9	W9_H	inra	https://doi.org/10.15454/9GOSKA	W9_inra	INRA	UH_007	UH	3047	yes	Other		
+W95115	W95115_H	inra	https://doi.org/10.15454/ALXSGY	W95115_inra	INRA	UH_007	UH	3088	yes	Other		
+Wf9	Wf9_H	inra	https://doi.org/10.15454/MUP3UY	Wf9_inra	INRA	UH_007	UH	3255	yes	Other		
